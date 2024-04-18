@@ -7,6 +7,6 @@ package Assig3;
     double doubleNumber = 161.3799;
     int integerNumber = (int)doubleNumber;
     System.out.println("Integer Number::"+integerNumber);
-	}
-
+	}//commments
+//comnets
 }
